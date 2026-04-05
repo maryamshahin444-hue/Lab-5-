@@ -1,4 +1,7 @@
 # Lab-5-
+
+
+
 When changing the value of top_k in Item_Name_reduced:
 For top_k = 3, the model showed lower accuracy because many items were grouped into "Other".
 For top_k = 5, the accuracy improved as more important item categories were preserved.
